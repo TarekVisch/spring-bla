@@ -18,7 +18,6 @@ public class Client {
         this.dob = dob;
     }
 
-    // Getters et Setters
     public Long getId() {
         return id;
     }
